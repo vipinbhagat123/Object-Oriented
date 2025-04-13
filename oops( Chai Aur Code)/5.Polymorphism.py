@@ -1,3 +1,10 @@
+# Polymorphism in python
+# Polymorphism is a programming concept that allows objects of different classes to be treated as objects of a common superclass.
+# Problem : Demostrate polymorphism by defining a method fuel_type in both car and electriccar classes, but with different behaviors.
+
+
+
+
 class Car:
     def __init__(self, brand, model):
         self.brand = brand
