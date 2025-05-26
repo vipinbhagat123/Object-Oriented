@@ -29,6 +29,7 @@ while True:
     print('3. Multiplication.')
     print('4. Division.')
     print('5. Modulus.')
+    print('6. Exit.')
     
     choice=int(input("\nEnter the option :"))
     if choice==1:
