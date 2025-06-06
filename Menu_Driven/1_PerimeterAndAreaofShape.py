@@ -14,7 +14,7 @@ def per_rectangle(height, width):
     perimeter = 2 * (height + width)
     print("perimeter of Rectangle:", perimeter)
 
-def per_square(side):  
+def per_square(side):   
     perimeter = 4*side
     print("perimeter of a square:", perimeter)
 
