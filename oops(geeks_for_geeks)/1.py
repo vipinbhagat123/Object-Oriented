@@ -1,4 +1,4 @@
-# Object Oriented Programminng is a fundamental concept in python, empowering developers to build modular, mainatainable, and scalable applications.
+# Object Oriented Programminng is a fundamental concept in python, empowering developers to build modular, mainatainable, and scalable applications. 
  
 #  OOPs Concepts in Python
 #  Class in Python
